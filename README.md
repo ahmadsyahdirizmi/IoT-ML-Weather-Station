@@ -67,9 +67,6 @@ This project aims to develop a real-time weather detection system using the Node
 - **📈 Data Analysis**: Analyze collected data using machine learning models to detect weather patterns and make predictions.
 - **🌐 Remote Access**: Access the weather data remotely via the Firebase console.
 
-
-- **John Doe** - *Initial work* - [GitHub](https://github.com/johndoe)
-
 ## References
 
 - **Adafruit DHT11 Sensor Library**: [GitHub](https://github.com/adafruit/DHT-sensor-library)
