@@ -8,8 +8,6 @@
 - [🤖 Machine Learning Models](#machine-learning-models)
 - [⚙️ Installation and Setup](#installation-and-setup)
 - [🚀 Usage](#usage)
-- [👥 Authors](#authors)
-- [📚 References](#references)
 
 ## Introduction
 
@@ -69,7 +67,6 @@ This project aims to develop a real-time weather detection system using the Node
 - **📈 Data Analysis**: Analyze collected data using machine learning models to detect weather patterns and make predictions.
 - **🌐 Remote Access**: Access the weather data remotely via the Firebase console.
 
-## Authors
 
 - **John Doe** - *Initial work* - [GitHub](https://github.com/johndoe)
 
