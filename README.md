@@ -1,4 +1,5 @@
 # 🌦️ Real-Time Weather Detection Using NodeMCU ESP8266 and Machine Learning Algorithms
+![Weather Station](https://github.com/ahmadsyahdirizmi/IoT-ML-Weather-Station/blob/e9b504849005c4642f8a61f8c94a9e77e744c5c2/Asset/1718038134155.jpg)
 
 ## Table of Contents
 - [📌 Introduction](#introduction)
