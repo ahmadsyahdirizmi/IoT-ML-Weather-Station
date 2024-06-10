@@ -1,5 +1,5 @@
 # 🌦️ Real-Time Weather Detection Using NodeMCU ESP8266 and Machine Learning Algorithms
-![Logo](https://drive.google.com/file/d/1eF6-OR4idjioc8zSHScWdl6cbKD2dHJD/view?usp=drive_link)
+
 ## Table of Contents
 - [📌 Introduction](#introduction)
 - [🔧 Hardware Components](#hardware-components)
